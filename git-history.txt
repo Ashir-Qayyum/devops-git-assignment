@@ -1,0 +1,4 @@
+71c8c39 PART 3 - Added echo cmd for Logging enabled in app.sh
+5c75274 Part 2 - Added echo cmd & Descp. in app.sh & notes.md respec.
+def7722 PART 1 - Setup Initial Folder Structure & README.md
+014614c Initial commit
